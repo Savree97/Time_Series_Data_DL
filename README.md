@@ -99,8 +99,8 @@ The notebook produces 4 plots:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Savree97/Time_Series_Data_DL.git
+cd Time_Series_Data_DL
 ```
 
 ### 2. Install dependencies
