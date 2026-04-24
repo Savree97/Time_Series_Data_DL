@@ -159,6 +159,8 @@ This project was developed as part of a **Deep Learning course assignment** on t
 
 ---
 
-## 📄 License
+## 👩‍💻 Author
 
-This project is for educational purposes.
+**Savree Dohar**  
+**Roll Number: 102317097**  
+UCS761 - Deep Learning
